@@ -4,5 +4,6 @@ public class HelloGit {
 		System.out.println("天下武功，为快不破");
 		System.out.println("快也不快");
 		System.out.println("jflsj");
+		System.out.println("不快也快");
 	}
 }
